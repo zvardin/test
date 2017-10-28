@@ -14,6 +14,7 @@ public class Draggable : MonoBehaviour
         movie = GetComponent<GAF.Core.GAFMovieClip>();
         tag = "draggable";
         collider = GetComponent<BoxCollider2D>();
+        //testing out git
     }
     
     private void Update() {
