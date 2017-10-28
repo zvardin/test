@@ -1,0 +1,123 @@
+{
+    "ANIMATION": {
+        "name": "Untitled-1",
+        "SYMBOL_name": "Tween 4",
+        "TIMELINE": {
+            "LAYERS": [
+                {
+                    "Layer_name": "Layer 1",
+                    "Frames": [
+                        {
+                            "index": 0,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -113,
+                                            "y": -137
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 1,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0001",
+                                        "Position": {
+                                            "x": -69,
+                                            "y": -297
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 2,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0001",
+                                        "Position": {
+                                            "x": -71,
+                                            "y": -200.05
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 3,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0001",
+                                        "Position": {
+                                            "x": -57,
+                                            "y": 29.95
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 4,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0001",
+                                        "Position": {
+                                            "x": -71,
+                                            "y": -200.05
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 5,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0001",
+                                        "Position": {
+                                            "x": -69,
+                                            "y": -297
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 6,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0002",
+                                        "Position": {
+                                            "x": -182,
+                                            "y": -49
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "metadata": {
+        "framerate": 24
+    }
+}

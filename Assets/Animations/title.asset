@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1730d0b8751ac9e44b6303c6b7703fa7, type: 3}
+  m_Name: title
+  m_EditorClassIdentifier: 
+  rootClip: {fileID: 0}
+  m_EnableSequenceCaching: 0
+  m_AssetVersion: 4
+  m_AudioResourcesDirectory: Animations/
+  m_AssetData: 4341470005093606000078da8d54bf4fdb4018fdec1043203f20212dbf0a81aed40ab60465494ace6bb74a8c48a83144404050964e167f030c8984c4c0804042420c6da50e90ac89da15b1833a7580a5133d7fe773cfa2983bc9efcec9fbdeb3dff7250ab8cb292ade1e8318dd071ee882e84f35013d1a7e03afe965dbef9b943407477b969959b4e83da1f7974a1c36d7d73f7da8ac95572bd572171c2a9eaabb2ba3b0b85dfdb85a7e63e4a766f4fcac6e4c2f18866ecceae65b7da3bae432bb29b1ddb22eebb59d0638b754b668b99f03b4e8f91d41219020a932a4880ca943861463a4dd8b7aed730372c7161c7c6324679f922e4a2e292a43d264489d32a42e19921b388565efd8cb9f00fab80da4b91664f89b423f2f851ede1188f3d821c1b385240f10523c00cafb1a6183c4ea543cb133ca813784ec626be98114ccf37cb31d9f24112c6056e8ca0bae2b2b7ec1a9765200a7bb094e860474b9f663dd0e51372190b5a1825f70ff65ac68dbf30dfba6510ad8033c651f15759382ee8f52b6283e54bd7636d76ea9a5803d6dc813f6ac51ac49ac41ac396263bc58537edac158d17550b3ea7f4c2b2e3e666f58c1954a0bb256403718aba89b1075fb42744df31731b77e9380fd7f743dfba4a89b0ed33dff4eccbb3609d83fd6e5f6293f00c667e26cfad9e40364115f20be441c401c441c421c461c417c85388a388698431c479cf0ff5a15efd7e2993d3b26fd72af9d14a629442d1d96ce3f357ffd054e33f806
+  m_GUID: ba0e1ac6d6f3fa24c9ffe19b1a0ea095
+  m_Path: Animations/
+  m_IsExternalDataCollected: 1
+  m_ExternalData:
+  - m_TimelineID: 0
+    m_ObjectTypeFlags: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_HasNesting: 0
+  m_KeyFrames: []
+  m_AudioResources: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1730d0b8751ac9e44b6303c6b7703fa7, type: 3}
+  m_Name: a
+  m_EditorClassIdentifier: 
+  rootClip: {fileID: 0}
+  m_EnableSequenceCaching: 0
+  m_AssetVersion: 4
+  m_AudioResourcesDirectory: Animations/
+  m_AssetData: 434147000509b701000078da63640081067b4628cdc9c009a425fe038111233b132f430f4486811588cf9ef978c8d8d8f170da321697b33e5b9c817c2720df999187a1283fbf242433373527332f9583c10e662a4833232b43a25e415e3acc9ab4b4be83b3661a1e06321d20b8c11e28eaccc010ed0c560fd2cbc5c0076532c1841878187e421d025106751913030c34d8e72cc9b76740e29fe5613a3ceb66ce6126e235b01c3efba6f53033291ad29ecd39cc42aa0dacb8344030826fbc990bec0706240000bd6b485d
+  m_GUID: b0bad5fc186a426488c178885588833f
+  m_Path: Animations/
+  m_IsExternalDataCollected: 1
+  m_ExternalData:
+  - m_TimelineID: 0
+    m_ObjectTypeFlags: 00000000
+  m_HasNesting: 0
+  m_KeyFrames: []
+  m_AudioResources: []
